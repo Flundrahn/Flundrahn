@@ -13,7 +13,7 @@
 *Stockholm, Sweden*
 
 [![Email](https://img.shields.io/badge/Email-flundst%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flundst@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fredriklundstrom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredrik-lundstrom)
 
 </div>
 
